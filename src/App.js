@@ -72,7 +72,8 @@ export default function App() {
                 listStyle: "none",
                 padding: "1rem",
                 border: "2px solid black",
-                width: "80%",
+                width: "50%",
+                display: "inline-block",
                 margin: "1rem 0rem",
                 borderRadius: "0.5rem"
               }}
